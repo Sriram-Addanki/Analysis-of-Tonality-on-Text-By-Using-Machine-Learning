@@ -1,3 +1,3 @@
-# Analysis-of-Tonality-on-Text-based-Using-Machine-Learning
+# Analysis-of-Tonality-on-Text-By-Using-Machine-Learning
 About My Academic Project
 
